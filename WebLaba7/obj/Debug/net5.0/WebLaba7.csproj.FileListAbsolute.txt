@@ -73,3 +73,5 @@ C:\Users\Ivan\RiderProjects\WebLaba7\WebLaba7\obj\Debug\net5.0\Razor\Views\Medic
 C:\Users\Ivan\RiderProjects\WebLaba7\WebLaba7\obj\Debug\net5.0\Razor\Views\Medicine\Index.cshtml.g.cs
 C:\Users\Ivan\RiderProjects\WebLaba7\WebLaba7\obj\Debug\net5.0\Razor\Views\Receipt\Index.cshtml.g.cs
 C:\Users\Ivan\RiderProjects\WebLaba7\WebLaba7\obj\Debug\net5.0\Razor\Views\Medicine\Delete.cshtml.g.cs
+C:\Users\Ivan\RiderProjects\WebLaba7\WebLaba7\obj\Debug\net5.0\Razor\Views\Receipt\Create.cshtml.g.cs
+C:\Users\Ivan\RiderProjects\WebLaba7\WebLaba7\obj\Debug\net5.0\Razor\Views\Receipt\Delete.cshtml.g.cs

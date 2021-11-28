@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebLaba7.Models
 {
@@ -17,6 +18,9 @@ namespace WebLaba7.Models
         public string ClientPhoneNumber { get; set; }
         
         [Required]
-        public Medicine MedicineName { get; set; }
+        public int MedicineId { get; set; }
+        
+        [ForeignKey("MedicineId")]
+        public Medicine Medicine { get; set; }
     }
 }

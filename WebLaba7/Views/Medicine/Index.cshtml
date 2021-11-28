@@ -16,6 +16,9 @@
         <thead>
         <tr>
             <th>
+                Id
+            </th>
+            <th>
                 Name
             </th>
             <th>
@@ -27,6 +30,7 @@
         @foreach (var medicine in Model)
         {
             <tr>
+                <td>@medicine.Id</td>
                 <td>@medicine.Name</td>
                 <td>@medicine.Price</td>
                 <td>

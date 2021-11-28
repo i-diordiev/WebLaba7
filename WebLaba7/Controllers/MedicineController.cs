@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.FileProviders;
 using WebLaba7.Data;
 using WebLaba7.Models;
 using WebLaba7.Models.ViewModels;
